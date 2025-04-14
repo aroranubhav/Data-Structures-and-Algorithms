@@ -1,5 +1,5 @@
 class Solution {
-    fun findMin(nums: IntArray): Int {
+    fun findMinimum(nums: IntArray): Int {
         var left = 0
         var right = nums.size - 1
 
